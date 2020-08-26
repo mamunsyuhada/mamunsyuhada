@@ -1,5 +1,5 @@
 <div style="text-align:center">
-    <img src="pic/programmer.gif">
+    <img src="https://raw.githubusercontent.com/mamunsyuhada/mamunsyuhada/master/pic/programmer.gif">
     <h1>Hi there 👋, I'm Mamun</h1>
     <em> Embedded System Engineer at 
         <a href="http://www.widya.ai">Widya Inovasi Indonesia</a>
