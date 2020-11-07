@@ -12,8 +12,7 @@
 
 ### Current activities
 
-- 🌱 I’m currently learning ```JavaScript``` and ```GoLang``` to build several project
-- 👯 I’m looking to collaborate on ```Wireless Sensor Networks``` or ```Internet of Things```
+- 🌱 Currently I have a passion in ```backend``` engineering
+- 👯 I am also interested in collaborating on research on ```Wireless Sensor Networks``` and ```Internet of Things```
 - 📫 You can reach me at imam.syuhada[at]365.ugm.ac.id
 - 📝 See my [linked.in](https://www.linkedin.com/in/mamunsyuhada/) to get more info
-# mamunsyuhada
