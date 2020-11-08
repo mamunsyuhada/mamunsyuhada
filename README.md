@@ -10,6 +10,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=mamunsyuhada&show_icons=true"/>
 </div>
 
+[![mamunsyuhada's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mamunsyuhada)](https://wakatime.com/@mamunsyuhada)
+
 ### Current activities
 
 - 🌱 Currently I have a passion in ```Backend``` engineering
