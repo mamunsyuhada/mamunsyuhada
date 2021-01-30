@@ -14,7 +14,7 @@
 
 ### Current activities
 
-- 🌱 Currently I have a passion in ```Backend``` engineering
+- 🌱 Currently I have a passion in ```Backend``` development
 - 👯 I am also interested in collaborating on research on ```Wireless Sensor Networks``` and ```Internet of Things```
 - 📫 You can reach me at imam.syuhada[at]365.ugm.ac.id
 - 📝 See my [linked.in](https://www.linkedin.com/in/mamunsyuhada/) to get more info
