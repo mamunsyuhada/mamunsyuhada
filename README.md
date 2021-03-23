@@ -1,6 +1,7 @@
 <div style="text-align:center">
 <!--     <img src="https://raw.githubusercontent.com/mamunsyuhada/mamunsyuhada/master/pic/programmer.gif"> -->
     <h1>Hi there 👋, I'm Mamun</h1>
+    <img src="https://profile-counter.glitch.me/naufalist/count.svg" />
     <em> 
         Hardware-Software Developer with ±3 years experience working on Firmware or Embedded Systems
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -12,6 +13,7 @@
 
 [![mamunsyuhada's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mamunsyuhada)](https://wakatime.com/@mamunsyuhada)
 
+
 ### Current activities
 
 - 🌱 Currently I have a passion in ```Backend``` development
@@ -20,3 +22,4 @@
 - 📝 See my [linked.in](https://www.linkedin.com/in/mamunsyuhada/) to get more info
 
 ![](https://hit.yhype.me/github/profile?user_id=15946412)
+
