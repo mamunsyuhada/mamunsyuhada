@@ -2,6 +2,7 @@
 <!--     <img src="https://raw.githubusercontent.com/mamunsyuhada/mamunsyuhada/master/pic/programmer.gif"> -->
     <h1>Hi there 👋, I'm Mamun</h1>
     <img src="https://profile-counter.glitch.me/naufalist/count.svg" />
+    <br>
     <em> 
         Hardware-Software Developer with ±3 years experience working on Firmware or Embedded Systems
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
