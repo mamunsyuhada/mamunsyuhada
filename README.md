@@ -4,7 +4,7 @@
     <img src="https://profile-counter.glitch.me/mamunsyuhada/count.svg" />
     <br>
     <em> 
-        Hardware-Software Developer with ±3 years experience working on Firmware or Embedded Systems
+        Hardware-Software Developers have several years of experience working on Firmware or Embedded Systems
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
     </em>
     <br>
