@@ -50,7 +50,8 @@
 
 **IoT Development:**
 <div align="left">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamunsyuhada" alt="mamunsyuhada" /> </p>
