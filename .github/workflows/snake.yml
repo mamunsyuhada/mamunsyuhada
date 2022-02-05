@@ -2,7 +2,7 @@ name: Generate Snake
 on:
   schedule:
       # every 6 hours
-    - cron: "*/10 * * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 jobs:
   build:
