@@ -1,5 +1,6 @@
 <h1 align="center">Haloo 👋, I'm Mamun</h1>
 
+![snake gif](https://github.com/mamunsyuhada/mamunsyuhada/blob/output/github-contribution-grid-snake.gif)
 
 <!--START_SECTION:waka-->
 ```text
