@@ -14,7 +14,7 @@ JSON         6 mins          ░░░░░░░░░░░░░░░░░
 
 - 🌱 I’m currently learning **Go**, **Web Performance**, some about **Infrastructure**
 - 💬 Ask me about **nodejs**, **backend development**
-- 💼 Any freelance work? do reach, imamsy11[at]gmail.com
+- 💼 Any freelance work? do reach, imamsy11@gmail.com
 
 
 **Language & Runtime:**
