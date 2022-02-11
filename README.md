@@ -4,12 +4,6 @@
 
 **Weekly Development Breakdown**
 <!--START_SECTION:waka-->
-```text
-JavaScript   23 hrs 11 mins  ████████████████████████▒   97.04 % 
-Bash         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-YAML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-```
 <!--END_SECTION:waka-->
 
 - 🌱 I’m currently learning **Go**, **Web Performance**, some about **Infrastructure**
@@ -23,6 +17,7 @@ JSON         6 mins          ░░░░░░░░░░░░░░░░░
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />  
 </div>
 
 **Framework:**
