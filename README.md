@@ -6,9 +6,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   5 hrs 15 mins   ██████████████████████░░░   88.32 %
-JSON         41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+JavaScript   4 hrs 33 mins   ████████████████████████░   96.05 %
+Bash         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
 ```
 
 <!--END_SECTION:waka-->
