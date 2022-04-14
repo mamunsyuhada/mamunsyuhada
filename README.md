@@ -6,9 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 29 mins    ███████████████████████▒░   93.83 %
-XML          5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
