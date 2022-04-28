@@ -21,6 +21,8 @@ JSON         4 mins          ░░░░░░░░░░░░░░░░░
 - 💼 Any freelance work? do reach, imamsy11@gmail.com
 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312ddx5jjiclp25vnoyggc5fqtf4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 **Language & Runtime:**
 <div align="left">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
