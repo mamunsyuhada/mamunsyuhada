@@ -16,7 +16,7 @@ YAML         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-- 🌱 I’m currently learning **Go**, **Web Performance**, some about **Infrastructure**
+- 🌱 Focus learning **backend Development**, some about **DevOps**
 - 💬 Ask me about **nodejs**, **backend development**
 - 💼 Any freelance work? do reach, imamsy11@gmail.com
 
