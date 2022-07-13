@@ -6,9 +6,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   5 hrs 9 mins    █████████████████████████   99.71 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+TypeScript   6 hrs 38 mins   █████████████████████████   99.98 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
