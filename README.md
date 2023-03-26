@@ -6,7 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go                7 hrs 58 mins   ████████████████████████▓   98.31 %
+Protocol Buffer   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+protobuf          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
