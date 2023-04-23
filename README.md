@@ -6,12 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Protocol Buffer   17 mins         █████████████▒░░░░░░░░░░░   53.31 %
-protobuf          8 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.08 %
-Go                6 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
-Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-go.mod            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
