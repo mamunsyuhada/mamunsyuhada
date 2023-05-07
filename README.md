@@ -6,9 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-protobuf          26 mins         ██████████████████░░░░░░░   71.55 %
-Protocol Buffer   7 mins          █████░░░░░░░░░░░░░░░░░░░░   19.85 %
-Go                3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+Go                6 hrs 43 mins   ███████████▓░░░░░░░░░░░░░   46.63 %
+Protocol Buffer   3 hrs 3 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.22 %
+protobuf          2 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
+SQL               2 hrs 13 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.46 %
+YAML              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
