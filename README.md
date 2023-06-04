@@ -5,12 +5,12 @@
 **Weekly Development Breakdown**
 <!--START_SECTION:waka-->
 
-```text
-SQL               13 hrs 38 mins  █████████████▓░░░░░░░░░░░   54.62 %
-Go                7 hrs 55 mins   ████████░░░░░░░░░░░░░░░░░   31.73 %
-Protocol Buffer   1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-protobuf          1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-go.mod            19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+```txt
+Go                7 hrs           █████████████████▒░░░░░░░   68.77 %
+Protocol Buffer   2 hrs 34 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.26 %
+protobuf          23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+SQL               8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Makefile          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
