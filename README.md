@@ -6,7 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   11 hrs 27 mins  ██████████████████████▓░░   90.42 %
+JSON     40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+YAML     23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Bash     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Ezhil    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
