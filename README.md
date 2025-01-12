@@ -4,7 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript        2 hrs 23 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.59 %
+Go                1 hr 48 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.27 %
+Protocol Buffer   1 hr 42 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.30 %
+Solidity          1 hr 26 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
+Makefile          29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
 ```
 
 <!--END_SECTION:waka-->
