@@ -4,11 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript        2 hrs 23 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.59 %
-Go                1 hr 48 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.27 %
-Protocol Buffer   1 hr 42 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.30 %
-Solidity          1 hr 26 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
-Makefile          29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+Go                1 hr 38 mins    ██████████████████████▓░░   91.04 %
+Protocol Buffer   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+Makefile          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
