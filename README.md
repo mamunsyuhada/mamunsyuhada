@@ -4,10 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                1 hr 38 mins    ██████████████████████▓░░   91.04 %
-Protocol Buffer   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-Makefile          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
